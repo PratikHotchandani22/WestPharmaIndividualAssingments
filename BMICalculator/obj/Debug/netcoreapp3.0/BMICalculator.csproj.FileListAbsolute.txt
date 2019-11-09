@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator.deps.json
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator.dll
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/bin/Debug/netcoreapp3.0/BMICalculator.pdb
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/obj/Debug/netcoreapp3.0/BMICalculator.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/obj/Debug/netcoreapp3.0/BMICalculator.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/obj/Debug/netcoreapp3.0/BMICalculator.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/obj/Debug/netcoreapp3.0/BMICalculator.dll
+/Users/HOTIE/Desktop/Projects/C#/BMICalculator/obj/Debug/netcoreapp3.0/BMICalculator.pdb
