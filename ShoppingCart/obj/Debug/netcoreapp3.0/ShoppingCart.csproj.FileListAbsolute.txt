@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart.deps.json
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart.dll
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/bin/Debug/netcoreapp3.0/ShoppingCart.pdb
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/obj/Debug/netcoreapp3.0/ShoppingCart.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/obj/Debug/netcoreapp3.0/ShoppingCart.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/obj/Debug/netcoreapp3.0/ShoppingCart.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/obj/Debug/netcoreapp3.0/ShoppingCart.dll
+/Users/HOTIE/Desktop/Projects/C#/ShoppingCart/obj/Debug/netcoreapp3.0/ShoppingCart.pdb
