@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString.deps.json
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString.dll
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/bin/Debug/netcoreapp3.0/ReversingString.pdb
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/obj/Debug/netcoreapp3.0/ReversingString.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/obj/Debug/netcoreapp3.0/ReversingString.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/obj/Debug/netcoreapp3.0/ReversingString.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/obj/Debug/netcoreapp3.0/ReversingString.dll
+/Users/HOTIE/Desktop/Projects/C#/ReversingString/obj/Debug/netcoreapp3.0/ReversingString.pdb
