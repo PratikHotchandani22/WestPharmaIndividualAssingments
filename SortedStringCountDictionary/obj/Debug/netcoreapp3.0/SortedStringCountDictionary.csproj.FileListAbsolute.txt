@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary.deps.json
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary.dll
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/bin/Debug/netcoreapp3.0/SortedStringCountDictionary.pdb
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/obj/Debug/netcoreapp3.0/SortedStringCountDictionary.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/obj/Debug/netcoreapp3.0/SortedStringCountDictionary.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/obj/Debug/netcoreapp3.0/SortedStringCountDictionary.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/obj/Debug/netcoreapp3.0/SortedStringCountDictionary.dll
+/Users/HOTIE/Desktop/Projects/C#/SortedStringCountDictionary/obj/Debug/netcoreapp3.0/SortedStringCountDictionary.pdb
