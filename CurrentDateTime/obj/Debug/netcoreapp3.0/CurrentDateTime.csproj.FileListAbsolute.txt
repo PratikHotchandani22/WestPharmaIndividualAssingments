@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime.deps.json
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime.dll
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/bin/Debug/netcoreapp3.0/CurrentDateTime.pdb
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/obj/Debug/netcoreapp3.0/CurrentDateTime.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/obj/Debug/netcoreapp3.0/CurrentDateTime.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/obj/Debug/netcoreapp3.0/CurrentDateTime.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/obj/Debug/netcoreapp3.0/CurrentDateTime.dll
+/Users/HOTIE/Desktop/Projects/C#/CurrentDateTime/obj/Debug/netcoreapp3.0/CurrentDateTime.pdb
