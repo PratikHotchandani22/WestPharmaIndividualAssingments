@@ -1,0 +1,11 @@
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass.deps.json
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass.runtimeconfig.json
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass.runtimeconfig.dev.json
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass.dll
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/bin/Debug/netcoreapp3.0/StringClass.pdb
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/obj/Debug/netcoreapp3.0/StringClass.csprojAssemblyReference.cache
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/obj/Debug/netcoreapp3.0/StringClass.AssemblyInfoInputs.cache
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/obj/Debug/netcoreapp3.0/StringClass.AssemblyInfo.cs
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/obj/Debug/netcoreapp3.0/StringClass.dll
+/Users/HOTIE/Desktop/Projects/C#/Assingment 2/StringClass/obj/Debug/netcoreapp3.0/StringClass.pdb
