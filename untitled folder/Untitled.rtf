@@ -2,7 +2,7 @@
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww12500\viewh17440\viewkind1
+\paperw11900\paperh16840\margl1440\margr1440\vieww12800\viewh17740\viewkind1
 \deftab720
 \pard\pardeftab720\ri0\sl259\slmult1\sa160\partightenfactor0
 
@@ -23,7 +23,7 @@
         <Color x:Key="MaterialFrameColour">#ccefea</Color>\
 \
 \
-        <Style x:Key="Labels" TargetType="Label">\
+        <Style x:Key="Entries" TargetType="Entry">\
             <Setter Property="FontSize" Value="Medium"/>\
             <Setter Property="FontAttributes" Value="Bold"/>\
             <Setter Property="HorizontalOptions" Value="Start"/>\
@@ -62,7 +62,6 @@
             <Setter Property="CornerRadius" Value="10"/>\
             <Setter Property="HeightRequest" Value="\{OnPlatform iOS='50', UWP='40'\}"/>\
             <Setter Property="VerticalOptions" Value="End"/>\
-\
         </Style>\
 \
         <Style x:Key="CancelButtonFrame" TargetType="Frame">\
@@ -166,38 +165,38 @@
                         Hint="Task"\
                         Grid.Row="0"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
 \
                     <inputLayout:SfTextInputLayout\
                         Hint="Bin Number"\
                         Grid.Row="1"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
 \
                     <inputLayout:SfTextInputLayout\
                         Hint="Storage Type"\
                         Grid.Row="2"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Storage Section"\
                         Grid.Row="3"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Batch"\
                         Grid.Row="4"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <StackLayout Grid.Row="5"\
                                  Orientation="Horizontal"\
@@ -205,22 +204,22 @@
                         <inputLayout:SfTextInputLayout\
                             Hint="Actual Quantity"\
                             Style="\{StaticResource LabelACT\}">\
-                            <Label Text="John"\
-                                   Style="\{StaticResource Labels\}"/>\
+                            <Entry Text="John"\
+                                   Style="\{StaticResource Entries\}"/>\
                         </inputLayout:SfTextInputLayout>\
                         <inputLayout:SfTextInputLayout\
                             Hint="UoM"\
                             Style="\{StaticResource LabelUoM\}">\
-                            <Label Text="John"\
-                                   Style="\{StaticResource Labels\}"/>\
+                            <Entry Text="John"\
+                                   Style="\{StaticResource Entries\}"/>\
                         </inputLayout:SfTextInputLayout>\
                     </StackLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Handling Unit"\
                         Grid.Row="6"\
                         Style="\{StaticResource SourceLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
 \
                     <!--Source Labels end-->\
@@ -231,29 +230,29 @@
                         Hint="Bin Number"\
                         Grid.Row="0"\
                         Style="\{StaticResource DestinationLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Storage Type"\
                         Grid.Row="1"\
                         Style="\{StaticResource DestinationLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Storage Section"\
                         Grid.Row="2"\
                         Style="\{StaticResource DestinationLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Batch"\
                         Grid.Row="3"\
                         Style="\{StaticResource DestinationLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
                     <StackLayout Grid.Row="4"\
                                  IsVisible="\{Binding DestinationClickedBool\}"\
@@ -261,22 +260,22 @@
                         <inputLayout:SfTextInputLayout\
                             Hint="Actual Quantity"\
                             Style="\{StaticResource LabelACT\}">\
-                            <Label Text="John"\
-                                   Style="\{StaticResource Labels\}"/>\
+                            <Entry Text="John"\
+                                   Style="\{StaticResource Entries\}"/>\
                         </inputLayout:SfTextInputLayout>\
                         <inputLayout:SfTextInputLayout\
                             Hint="UoM"\
                             Style="\{StaticResource LabelUoM\}">\
-                            <Label Text="John"\
-                                   Style="\{StaticResource Labels\}"/>\
+                            <Entry Text="John"\
+                                   Style="\{StaticResource Entries\}"/>\
                         </inputLayout:SfTextInputLayout>\
                     </StackLayout>\
                     <inputLayout:SfTextInputLayout\
                         Hint="Handling Unit"\
                         Grid.Row="5"\
                         Style="\{StaticResource DestinationLabels\}">\
-                        <Label Text="John"\
-                               Style="\{StaticResource Labels\}"/>\
+                        <Entry Text="John"\
+                               Style="\{StaticResource Entries\}"/>\
                     </inputLayout:SfTextInputLayout>\
 \
                     <!--Destination Labels end-->\
